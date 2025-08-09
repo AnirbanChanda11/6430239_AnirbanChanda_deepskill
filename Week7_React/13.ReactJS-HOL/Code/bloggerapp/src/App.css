@@ -1,0 +1,27 @@
+.container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.buttons {
+  margin-bottom: 20px;
+}
+
+button {
+  margin: 5px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+.column {
+  border-left: 4px solid green;
+  padding: 10px;
+  min-width: 200px;
+}
+
